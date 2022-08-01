@@ -1,0 +1,21 @@
+[debug] [2022-08-01T19:49:13.537Z] ----------------------------------------------------------------------
+[debug] [2022-08-01T19:49:13.539Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\rafae\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-08-01T19:49:13.540Z] CLI Version:   11.4.1
+[debug] [2022-08-01T19:49:13.540Z] Platform:      win32
+[debug] [2022-08-01T19:49:13.541Z] Node Version:  v16.15.0
+[debug] [2022-08-01T19:49:13.542Z] Time:          Mon Aug 01 2022 16:49:13 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2022-08-01T19:49:13.542Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-08-01T19:49:13.554Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-08-01T19:49:13.555Z] > authorizing via signed-in user (rafaelldiias100@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\rafae\OneDrive\Documentos\Cubos\front\deploy\repoFirebase
+
